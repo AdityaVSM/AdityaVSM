@@ -32,7 +32,7 @@ Aiming to become a full-time Android developer 💸,learn ML, and to be an Open 
 - 👨🏽‍💻 I’m currently studying @BMSCE (ISe)
 - 🌱 I’m currently learning kotlin and firebase
 - 🤔 I’m looking for help for my future android projects
-- 💬 Ask me about anything related to Java, c++, C,Python,HTML, CSS ,Javascript, PHP, Firebase.(After googling it 😜😌)
+- 💬 Ask me about anything related to Java, C++, C, Python, HTML, CSS.(After googling it 😜😌)
 - ⚡️ Fun-Fact: I sleep at 6am 🙃
 - 🎿 Hobbies other than coding : Reading blogs, Playing Chess , Gaming, reading books 🤔🤖..
 - 📫 How to reach me: adityavsm55@gmail.com
