@@ -22,7 +22,7 @@
 <p>
 A Coding enthusiast 🚀 from India.
 <br>
-Want to become a full-time Android developer 💸,learn ML, and to be an Open Source Contributor ❤️.
+Aiming to become a full-time Android developer 💸,learn ML, and to be an Open Source Contributor ❤️.
 </p>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
