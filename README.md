@@ -21,10 +21,7 @@ Aiming to become a full-time Android developer 💸,learn ML, and to be an Open 
   <img align="left" alt="Aditya's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-
-<br><br><br>
-
-
+<br>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
   
