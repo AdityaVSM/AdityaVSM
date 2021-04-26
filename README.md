@@ -22,8 +22,6 @@
 <p>
 A Coding enthusiast 🚀 from India.
 <br>
-Things I have recently experimented with : discord bots, web dev, Kotlin and lot of other ui-libs...
-<br/>
 Want to become a full-time Android developer 💸,learn ML, and to be an Open Source Contributor ❤️.
 </p>
 
