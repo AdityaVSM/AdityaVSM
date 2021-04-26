@@ -1,6 +1,12 @@
-### <h1>Hi there 👋, I'm [Aditya VSM](https://github.com/AdityaVSM) 👨‍💻</h1>
+### <h1 style="text-align:center;">Hi there 👋, I'm [Aditya VSM](https://github.com/AdityaVSM) 👨‍💻</h1>
 
 <br><br>
+<p>
+A Coding enthusiast 🚀 from India.
+<br>
+Aiming to become a full-time Android developer 💸,learn ML, and to be an Open Source Contributor ❤️.
+</p>
+<br>
 
 <a href="https://www.linkedin.com/in/aditya-vsm-9ba29a1b2//">
   <img align="left" alt="Aditya's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -18,11 +24,7 @@
 
 <br><br><br>
 
-<p>
-A Coding enthusiast 🚀 from India.
-<br>
-Aiming to become a full-time Android developer 💸,learn ML, and to be an Open Source Contributor ❤️.
-</p>
+
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
   
