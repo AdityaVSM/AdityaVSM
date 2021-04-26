@@ -1,4 +1,4 @@
-### <h1 style="text-align:center;">Hi there 👋, I'm [Aditya VSM](https://github.com/AdityaVSM) 👨‍💻</h1>
+### <h1 align="center">Hi there 👋, I'm [Aditya VSM](https://github.com/AdityaVSM) 👨‍💻</h1>
 
 <br><br>
 <p>
@@ -20,12 +20,11 @@ Aiming to become a full-time Android developer 💸,learn ML, and to be an Open 
 <a href="mailto:adityavsm55@gmail.com">
   <img align="left" alt="Aditya's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
 <br>
 
   <img align="right" height="200" width="380" src="https://media0.giphy.com/media/TNf5oSRelTeI8/giphy.gif?cid=ecf05e47wgyyb4jad8wqt5k0fhpewa1yd9ndfy8lglk9qfm0&rid=giphy.gif&ct=g" />
   
-<br><br>
+
 
 - 👨🏽‍💻 I’m currently studying @BMSCE (ISe)
 - 🌱 I’m currently learning kotlin and firebase
