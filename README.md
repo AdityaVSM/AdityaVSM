@@ -58,5 +58,5 @@ Want to become a full-time Android developer 💸,learn ML, and to be an Open So
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-
-
+###  My Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaVSM&&show_icons=true&title_color=08d9d6&icon_color=ff2e63&text_color=eaeaea&bg_color=252a34">
