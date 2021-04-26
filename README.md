@@ -1,6 +1,6 @@
-### Hi there 👋, I'm [Aditya VSM](https://github.com/AdityaVSM) 👨‍💻
+### <h1>Hi there 👋, I'm [Aditya VSM](https://github.com/AdityaVSM) 👨‍💻</h1>
 
-<br/>
+<br><br>
 
 <a href="https://www.linkedin.com/in/aditya-vsm-9ba29a1b2//">
   <img align="left" alt="Aditya's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -16,8 +16,7 @@
 </a>
 
 
-<br />
-<br/>
+<br><br><br>
 
 <p>
 A Coding enthusiast 🚀 from India.
@@ -27,7 +26,7 @@ Aiming to become a full-time Android developer 💸,learn ML, and to be an Open 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
   
-
+<br><br>
 
 - 👨🏽‍💻 I’m currently studying @BMSCE (ISe)
 - 🌱 I’m currently learning kotlin and firebase
@@ -35,7 +34,7 @@ Aiming to become a full-time Android developer 💸,learn ML, and to be an Open 
 - 💬 Ask me about anything related to Java, C++, C, Python, HTML, CSS.(After googling it 😜😌)
 - ⚡️ Fun-Fact: I sleep at 6am 🙃
 - 🎿 Hobbies other than coding : Reading blogs, Playing Chess , Gaming, reading books 🤔🤖..
-- 📫 How to reach me: adityavsm55@gmail.com
+<br><br>
 
 ### 🛠️ Languages and Tools:
 
@@ -52,9 +51,9 @@ Aiming to become a full-time Android developer 💸,learn ML, and to be an Open 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![mySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<br>
 
 ###  My Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=AdityaVSM&&show_icons=true&title_color=08d9d6&icon_color=ff2e63&text_color=eaeaea&bg_color=252a34">
