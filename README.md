@@ -23,7 +23,7 @@ Aiming to become a full-time Android developer 💸,learn ML, and to be an Open 
 
 <br>
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47etzbsph3t0dux0md8660cvqrh9mm2e28jnwduntz&rid=giphy.gif&ct=g" />
   
 <br><br>
 
