@@ -27,8 +27,9 @@ Aiming to become a full-time Android developer 💸,learn ML, and to be an Open 
 
 
 - 👨🏽‍💻 I’m currently studying @BMSCE (ISe)
-- 🌱 I’m currently learning kotlin and firebase
-- 🤔 I’m looking for help for my future android projects
+- 🌱 I’m currently learning Machine learning
+- 💻 I'm currently a research intern at Samsung PRISM working on a project based on language processing
+- 🤔 I’m looking for help for from any ML enthusiasts
 - 💬 Ask me about anything related to Java, C++, C, Python, HTML, CSS.(After googling it 😜😌)
 - ⚡️ Fun-Fact: I sleep at 6am 🙃
 - 🎿 Hobbies other than coding : Reading blogs, Playing Chess , Gaming, reading books 🤔🤖..
