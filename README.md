@@ -9,20 +9,20 @@ Aiming to become a full-time Android developer 💸,learn ML, and to be an Open 
 <br>
 
 <a href="https://www.linkedin.com/in/aditya-vsm-9ba29a1b2//">
-  <img align="left" alt="Aditya's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Aditya's Linkedin" width="22px" src="https://image.flaticon.com/icons/png/512/145/145807.png" />
 </a>
 
 
 <a href="https://twitter.com/VsmAditya">
-  <img align="left" alt="Aditya VSM | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Aditya VSM | Twitter" width="22px" src="https://img-premium.flaticon.com/png/512/145/145812.png?token=exp=1622740714~hmac=65d6a856ad3889c131a0917fbc07b545" />
 </a>
 
 <a href="mailto:adityavsm55@gmail.com">
-  <img align="left" alt="Aditya's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Aditya's Email" width="22px" src="https://image.flaticon.com/icons/png/512/888/888853.png" />
 </a>
 <br>
 
-  <img align="right" height="200" width="380" src="https://media0.giphy.com/media/TNf5oSRelTeI8/giphy.gif?cid=ecf05e47wgyyb4jad8wqt5k0fhpewa1yd9ndfy8lglk9qfm0&rid=giphy.gif&ct=g" />
+  <img align="right" height="350" width="380" src="https://media0.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=ecf05e47lu6r5q8j1sasz94tjre2n2cn37bxlcyywmes8plu&rid=giphy.gif&ct=g" />
   
 
 
