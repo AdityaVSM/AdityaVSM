@@ -28,10 +28,8 @@ Aiming to become a full-time Android developer 💸,learn ML, and to be an Open 
 
 - 👨🏽‍💻 I’m currently studying @BMSCE (ISe)
 - 🌱 I’m currently learning Machine learning
-- 💻 I'm currently a research intern at Samsung PRISM working on a project based on language processing
 - 🤔 I’m looking for help for from any ML enthusiasts
 - 💬 Ask me about anything related to Java, C++, C, Python, HTML, CSS.(After googling it 😜😌)
-- ⚡️ Fun-Fact: I sleep at 6am 🙃
 - 🎿 Hobbies other than coding : Reading blogs, Playing Chess , Gaming, reading books 🤔🤖..
 <br><br>
 
@@ -50,8 +48,7 @@ Aiming to become a full-time Android developer 💸,learn ML, and to be an Open 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![mySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-00000F?style=for-the-badge&logo=flutter&logoColor=white)
 <br>
 
 ###  My Stats:
