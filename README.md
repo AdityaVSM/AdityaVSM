@@ -53,3 +53,9 @@ Aiming to become a full-time Android developer 💸,learn ML, and to be an Open 
 
 ###  My Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=AdityaVSM&&show_icons=true&title_color=08d9d6&icon_color=ff2e63&text_color=eaeaea&bg_color=252a34">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaVSM&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdityaVSM&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AdityaVSM&theme=github"/>
