@@ -14,7 +14,7 @@ Aiming to become a full-time Android developer 💸,learn ML, and to be an Open 
 
 
 <a href="https://twitter.com/VsmAditya">
-  <img align="left" alt="Aditya VSM | Twitter" width="22px" src="https://img-premium.flaticon.com/png/512/145/145812.png?token=exp=1622740714~hmac=65d6a856ad3889c131a0917fbc07b545" />
+  <img align="left" alt="Aditya VSM | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/733/733579.png" />
 </a>
 
 <a href="mailto:adityavsm55@gmail.com">
