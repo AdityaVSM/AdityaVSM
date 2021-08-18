@@ -29,8 +29,6 @@ Aiming to become a full-time Android developer 💸,learn ML, and to be an Open 
 - 👨🏽‍💻 I’m currently studying @BMSCE (ISe)
 - 🌱 I’m currently learning Machine learning
 - 🤔 I’m looking for help for from any ML enthusiasts
-- 💬 Ask me about anything related to Java, C++, C, Python, HTML, CSS.(After googling it 😜😌)
-- ⚡ Fun Fact : People who write 'Jenga code' are no better than a 'Jimmy'
 <br><br>
 
 ### 🛠️ Languages and Tools:
