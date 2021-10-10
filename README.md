@@ -3,8 +3,6 @@
 <br><br>
 <p>
 A Coding enthusiast 🚀 from India.
-<br>
-Aiming to become a full-time Android developer 💸,learn ML, and to be an Open Source Contributor ❤️.
 </p>
 <br>
 
@@ -27,8 +25,9 @@ Aiming to become a full-time Android developer 💸,learn ML, and to be an Open 
 
 
 - 👨🏽‍💻 I’m currently studying @BMSCE (ISe)
-- 🌱 I’m currently learning Machine learning
+- 🌱 I’m currently Practicing Machine learning
 - 🤔 I’m looking for help for from any ML enthusiasts
+- 🆕 Up for contributing to any android/ML projects
 <br><br>
 
 ### 🛠️ Languages and Tools:
