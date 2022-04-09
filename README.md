@@ -6,7 +6,7 @@ A Coding enthusiast 🚀 from India.
 </p>
 <br>
 
-<a href="https://www.linkedin.com/in/aditya-vsm-9ba29a1b2//">
+<!-- <a href="https://www.linkedin.com/in/aditya-vsm-9ba29a1b2//">
   <img align="left" alt="Aditya's Linkedin" width="22px" src="https://image.flaticon.com/icons/png/512/145/145807.png" />
 </a>
 
@@ -20,7 +20,7 @@ A Coding enthusiast 🚀 from India.
 </a>
 <br>
 
-  <img align="right" height="350" width="380" src="https://media0.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=ecf05e47lu6r5q8j1sasz94tjre2n2cn37bxlcyywmes8plu&rid=giphy.gif&ct=g" />
+  <img align="right" height="350" width="380" src="https://media0.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=ecf05e47lu6r5q8j1sasz94tjre2n2cn37bxlcyywmes8plu&rid=giphy.gif&ct=g" /> -->
   
 
 
